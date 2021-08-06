@@ -1,0 +1,12 @@
+7. Decompose Warehouse
+Видео про декомпозицю предметной области на канале Сергея Немчинского: https://www.youtube.com/playlist?list=PLmqFxxywkatSezlaoxwFbdBBnAk_JJ__5
+
+
+
+Analyze and decompose Warehouse (create UML class diagram for application).
+
+The user of your application will be a Warehouse manager.
+
+Analyze main parts and functions of Warehouse.
+
+Add png image to the separate gitlab project.
